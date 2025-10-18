@@ -1,0 +1,300 @@
+{
+  "hortalicas": [
+    {
+      "nome": "Alface",
+      "tipo": "Folhosa",
+      "luz": "Sol pleno / meia-sombra",
+      "rega": "Diária, sem encharcar",
+      "temperatura": "10–25°C",
+      "solo_ideal": "Rico em matéria orgânica",
+      "espacamento": "20 cm",
+      "germinacao": "5–7 dias",
+      "colheita": "30–45 dias",
+      "cuidados": "Evitar sol forte direto; colher antes de florescer"
+    },
+    {
+      "nome": "Couve",
+      "tipo": "Folhosa",
+      "luz": "Sol pleno",
+      "rega": "Regular",
+      "temperatura": "15–25°C",
+      "solo_ideal": "Fértil e drenado",
+      "espacamento": "40–60 cm",
+      "germinacao": "7–10 dias",
+      "colheita": "60–90 dias",
+      "cuidados": "Retirar folhas velhas; evitar pulgões"
+    },
+    {
+      "nome": "Espinafre",
+      "tipo": "Folhosa",
+      "luz": "Sol pleno / meia-sombra",
+      "rega": "Moderada",
+      "temperatura": "10–24°C",
+      "solo_ideal": "Rico em nitrogênio",
+      "espacamento": "15–20 cm",
+      "germinacao": "6–10 dias",
+      "colheita": "45–60 dias",
+      "cuidados": "Colher antes do calor intenso"
+    },
+    {
+      "nome": "Rúcula",
+      "tipo": "Folhosa",
+      "luz": "Sol pleno",
+      "rega": "Moderada",
+      "temperatura": "10–25°C",
+      "solo_ideal": "Leve e fértil",
+      "espacamento": "15 cm",
+      "germinacao": "4–7 dias",
+      "colheita": "30–40 dias",
+      "cuidados": "Replantar a cada colheita; regar regularmente"
+    },
+    {
+      "nome": "Almeirão",
+      "tipo": "Folhosa",
+      "luz": "Sol pleno",
+      "rega": "Moderada",
+      "temperatura": "10–25°C",
+      "solo_ideal": "Fértil e úmido",
+      "espacamento": "30 cm",
+      "germinacao": "7–10 dias",
+      "colheita": "70–90 dias",
+      "cuidados": "Amargar menos se colhida jovem"
+    }
+  ],
+  "legumes_raizes": [
+    {
+      "nome": "Cenoura",
+      "tipo": "Raiz",
+      "luz": "Sol pleno",
+      "rega": "Moderada",
+      "temperatura": "15–25°C",
+      "solo_ideal": "Fino e profundo",
+      "espacamento": "10 cm",
+      "germinacao": "10–14 dias",
+      "colheita": "90 dias",
+      "cuidados": "Evitar solos argilosos; desbastar mudas"
+    },
+    {
+      "nome": "Beterraba",
+      "tipo": "Raiz",
+      "luz": "Sol pleno",
+      "rega": "Regular",
+      "temperatura": "15–25°C",
+      "solo_ideal": "Rico e drenado",
+      "espacamento": "15 cm",
+      "germinacao": "7–10 dias",
+      "colheita": "60–70 dias",
+      "cuidados": "Colher antes de endurecer"
+    },
+    {
+      "nome": "Rabanete",
+      "tipo": "Raiz",
+      "luz": "Sol pleno",
+      "rega": "Moderada",
+      "temperatura": "10–25°C",
+      "solo_ideal": "Solto e fértil",
+      "espacamento": "10 cm",
+      "germinacao": "3–5 dias",
+      "colheita": "25–30 dias",
+      "cuidados": "Colheita rápida; não deixar passar"
+    },
+    {
+      "nome": "Batata-doce",
+      "tipo": "Raiz",
+      "luz": "Sol pleno",
+      "rega": "Pouca, mas constante",
+      "temperatura": "20–30°C",
+      "solo_ideal": "Rico em matéria orgânica",
+      "espacamento": "50 cm",
+      "germinacao": "10–15 dias",
+      "colheita": "120–150 dias",
+      "cuidados": "Evitar solos encharcados"
+    }
+  ],
+  "ervas_temperos": [
+    {
+      "nome": "Manjericão",
+      "tipo": "Erva",
+      "luz": "Sol pleno",
+      "rega": "Moderada",
+      "temperatura": "18–30°C",
+      "solo_ideal": "Leve e drenado",
+      "espacamento": "30 cm",
+      "germinacao": "7–10 dias",
+      "colheita": "60 dias",
+      "cuidados": "Poda constante estimula folhas"
+    },
+    {
+      "nome": "Coentro",
+      "tipo": "Erva",
+      "luz": "Sol pleno",
+      "rega": "Moderada",
+      "temperatura": "15–25°C",
+      "solo_ideal": "Rico e úmido",
+      "espacamento": "20 cm",
+      "germinacao": "5–7 dias",
+      "colheita": "45 dias",
+      "cuidados": "Colher antes da floração"
+    },
+    {
+      "nome": "Salsa (salsinha)",
+      "tipo": "Erva",
+      "luz": "Meia-sombra",
+      "rega": "Regular",
+      "temperatura": "15–25°C",
+      "solo_ideal": "Rico em húmus",
+      "espacamento": "20 cm",
+      "germinacao": "15–20 dias",
+      "colheita": "70 dias",
+      "cuidados": "Germinação lenta; manter umidade"
+    },
+    {
+      "nome": "Cebolinha",
+      "tipo": "Erva",
+      "luz": "Sol pleno",
+      "rega": "Regular",
+      "temperatura": "15–30°C",
+      "solo_ideal": "Rico e úmido",
+      "espacamento": "20 cm",
+      "germinacao": "7–10 dias",
+      "colheita": "60 dias",
+      "cuidados": "Cortar acima do solo para rebrota"
+    },
+    {
+      "nome": "Hortelã",
+      "tipo": "Erva",
+      "luz": "Meia-sombra",
+      "rega": "Alta",
+      "temperatura": "15–25°C",
+      "solo_ideal": "Rico e úmido",
+      "espacamento": "30 cm",
+      "germinacao": "7–10 dias",
+      "colheita": "60–90 dias",
+      "cuidados": "Controlar invasão das raízes"
+    },
+    {
+      "nome": "Alecrim",
+      "tipo": "Erva",
+      "luz": "Sol pleno",
+      "rega": "Baixa",
+      "temperatura": "20–30°C",
+      "solo_ideal": "Seco e drenado",
+      "espacamento": "50 cm",
+      "germinacao": "15–20 dias",
+      "colheita": "90 dias",
+      "cuidados": "Evitar excesso de água"
+    }
+  ],
+  "frutiferas": [
+    {
+      "nome": "Tomate",
+      "tipo": "Fruto",
+      "luz": "Sol pleno",
+      "rega": "Regular",
+      "temperatura": "20–30°C",
+      "solo_ideal": "Rico e drenado",
+      "espacamento": "50 cm",
+      "germinacao": "7–10 dias",
+      "colheita": "90–120 dias",
+      "cuidados": "Tutoramento; evitar molhar folhas"
+    },
+    {
+      "nome": "Pimentão",
+      "tipo": "Fruto",
+      "luz": "Sol pleno",
+      "rega": "Moderada",
+      "temperatura": "20–30°C",
+      "solo_ideal": "Fértil e drenado",
+      "espacamento": "40 cm",
+      "germinacao": "10–14 dias",
+      "colheita": "90–120 dias",
+      "cuidados": "Evitar frio e excesso de água"
+    },
+    {
+      "nome": "Berinjela",
+      "tipo": "Fruto",
+      "luz": "Sol pleno",
+      "rega": "Regular",
+      "temperatura": "20–30°C",
+      "solo_ideal": "Rico e drenado",
+      "espacamento": "60 cm",
+      "germinacao": "10–15 dias",
+      "colheita": "100–120 dias",
+      "cuidados": "Tutoramento; evitar pragas"
+    },
+    {
+      "nome": "Abóbora",
+      "tipo": "Fruto",
+      "luz": "Sol pleno",
+      "rega": "Regular",
+      "temperatura": "20–30°C",
+      "solo_ideal": "Rico e espaçado",
+      "espacamento": "1 m",
+      "germinacao": "7–10 dias",
+      "colheita": "90–120 dias",
+      "cuidados": "Requer espaço; cuidado com fungos"
+    },
+    {
+      "nome": "Pepino",
+      "tipo": "Fruto",
+      "luz": "Sol pleno",
+      "rega": "Moderada",
+      "temperatura": "20–30°C",
+      "solo_ideal": "Rico em húmus",
+      "espacamento": "70 cm",
+      "germinacao": "5–7 dias",
+      "colheita": "60 dias",
+      "cuidados": "Tutoramento ajuda o crescimento"
+    },
+    {
+      "nome": "Melancia",
+      "tipo": "Fruto",
+      "luz": "Sol pleno",
+      "rega": "Alta",
+      "temperatura": "25–35°C",
+      "solo_ideal": "Rico e drenado",
+      "espacamento": "1 m",
+      "germinacao": "5–7 dias",
+      "colheita": "90 dias",
+      "cuidados": "Evitar excesso de nitrogênio"
+    },
+    {
+      "nome": "Morango",
+      "tipo": "Fruto",
+      "luz": "Sol pleno / meia-sombra",
+      "rega": "Moderada",
+      "temperatura": "15–25°C",
+      "solo_ideal": "Rico e úmido",
+      "espacamento": "30 cm",
+      "germinacao": "15–20 dias",
+      "colheita": "90 dias",
+      "cuidados": "Proteger dos caracóis e fungos"
+    }
+  ],
+  "extras": [
+    {
+      "nome": "Milho",
+      "tipo": "Grão",
+      "luz": "Sol pleno",
+      "rega": "Regular",
+      "colheita": "100–120 dias",
+      "observacao": "Precisa de espaço e polinização cruzada"
+    },
+    {
+      "nome": "Feijão",
+      "tipo": "Grão",
+      "luz": "Sol pleno",
+      "rega": "Moderada",
+      "colheita": "60–90 dias",
+      "observacao": "Boa rotação de cultura"
+    },
+    {
+      "nome": "Amendoim",
+      "tipo": "Leguminosa",
+      "luz": "Sol pleno",
+      "rega": "Moderada",
+      "colheita": "100 dias",
+      "observacao": "Gosta de calor e solos leves"
+    }
+  ]
+}
