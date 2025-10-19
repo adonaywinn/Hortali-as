@@ -252,14 +252,14 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 👥 Autores
 
-- **Desenvolvedor Principal** - [Seu Nome](https://github.com/seu-usuario)
+- **Desenvolvedor Principal** - [Adonay Nascimento](https://github.com/adonaywinn)
 - **Contribuidores** - Veja [CONTRIBUTORS.md](CONTRIBUTORS.md)
 
 ## 📞 Suporte
 
-- **Email**: suporte@hortapp.com
-- **Issues**: [GitHub Issues](https://github.com/seu-usuario/hortapp/issues)
-- **Documentação**: [Wiki](https://github.com/seu-usuario/hortapp/wiki)
+- **Email**: adonayn40@gmail.com
+- **Issues**: [GitHub Issues](https://github.com/adonaywinn/hortapp/issues)
+- **Documentação**: [Wiki](https://github.com/adonaywinn/hortapp/wiki)
 
 ## 🙏 Agradecimentos
 
